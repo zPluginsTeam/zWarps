@@ -1,0 +1,51 @@
+# Warps Plugin Messages
+# Plugin by zPlugins Team - DO NOT CHANGE THE PREFIX
+
+# Protected prefix - DO NOT MODIFY
+prefix: "§6[Warps] §r"
+
+# General messages
+player-only: "§cThis command can only be used by players."
+no-permission: "§cYou don't have permission to use this command."
+world-not-found: "§cWorld not found or not loaded."
+
+# Home messages
+home-set: "§aHome '§6{home}§a' has been set at your current location."
+home-teleport: "§aTeleported to home '§6{home}§a'."
+home-not-found: "§cHome '§6{home}§c' not found."
+home-deleted: "§aHome '§6{home}§a' has been deleted."
+max-homes-reached: "§cYou have reached the maximum number of homes allowed."
+no-homes: "§cYou don't have any homes set."
+homes-list: "§aYour homes: §6{homes}"
+
+# Warp messages
+warp-set: "§aWarp '§6{warp}§a' has been set at your current location."
+warp-teleport: "§aTeleported to warp '§6{warp}§a'."
+warp-not-found: "§cWarp '§6{warp}§c' not found."
+warp-deleted: "§aWarp '§6{warp}§a' has been deleted."
+warp-disabled: "§cWarp '§6{warp}§c' is currently disabled."
+warp-updated: "§aWarp '§6{warp}§a' has been updated."
+no-warp-permission: "§cYou don't have permission to use warp '§6{warp}§c'."
+no-warps: "§cNo warps are available."
+warps-list: "§aAvailable warps: §6{warps}"
+
+# Portal messages
+portal-pos1-set: "§aFirst position for portal '§6{portal}§a' has been set. Run the command again to set the second position."
+portal-pos2-set: "§aSecond position for portal '§6{portal}§a' has been set. Run the command again to set the destination."
+portal-set-destination: "§aPortal area defined. Now run §6/setportal {portal} §aat the destination location to complete the portal."
+portal-created: "§aPortal '§6{portal}§a' has been created successfully!"
+portal-teleport: "§aTeleported through portal '§6{portal}§a'."
+portal-not-found: "§cPortal '§6{portal}§c' not found."
+portal-deleted: "§aPortal '§6{portal}§a' has been deleted."
+portal-updated: "§aPortal '§6{portal}§a' has been updated."
+no-portal-permission: "§cYou don't have permission to use portal '§6{portal}§c'."
+no-portals: "§cNo portals are available."
+portals-list: "§aAvailable portals: §6{portals}"
+
+# Usage messages
+usage-delhome: "§cUsage: /delhome <name>"
+usage-warp: "§cUsage: /warp <name>"
+usage-setwarp: "§cUsage: /setwarp <name>"
+usage-delwarp: "§cUsage: /delwarp <name>"
+usage-setportal: "§cUsage: /setportal <name>"
+usage-delportal: "§cUsage: /delportal <name>"

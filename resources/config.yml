@@ -1,0 +1,22 @@
+# Warps Plugin Configuration
+# Plugin by zPlugins Team
+
+# Maximum number of homes per player
+max-homes: 5
+
+# Enable debug messages
+debug: false
+
+# Teleportation settings
+teleport:
+  # Delay before teleportation (in seconds)
+  delay: 3
+  # Cancel teleportation if player moves
+  cancel-on-move: true
+
+# Portal settings
+portals:
+  # Enable portal functionality
+  enabled: true
+  # Update floating text interval (in ticks)
+  text-update-interval: 100
