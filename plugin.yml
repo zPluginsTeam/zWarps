@@ -1,0 +1,52 @@
+name: zWarps
+main: zPluginsTeam\Warps\Main
+version: 1.0.0
+api: 5.0.0
+author: zPlugins Team
+description: A comprehensive home, warp, and portal management plugin for PocketMine-MP
+website: https://zplugins.xyz
+
+permissions:
+  warps.home:
+    description: Allows using home commands
+    default: true
+  warps.home.set:
+    description: Allows setting homes
+    default: true
+  warps.home.delete:
+    description: Allows deleting homes
+    default: true
+  warps.home.list:
+    description: Allows listing homes
+    default: true
+  warps.warp:
+    description: Allows using warp commands
+    default: true
+  warps.warp.set:
+    description: Allows setting warps
+    default: op
+  warps.warp.delete:
+    description: Allows deleting warps
+    default: op
+  warps.warp.list:
+    description: Allows listing warps
+    default: true
+  warps.warp.admin:
+    description: Allows managing warps through admin forms
+    default: op
+  warps.portal:
+    description: Allows using portal commands
+    default: true
+  warps.portal.set:
+    description: Allows setting portals
+    default: op
+  warps.portal.delete:
+    description: Allows deleting portals
+    default: op
+  warps.portal.list:
+    description: Allows listing portals
+    default: true
+  warps.portal.admin:
+    description: Allows managing portals through admin forms
+    default: op
+
