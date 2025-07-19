@@ -15,7 +15,7 @@
 - 🔹 **Linked Portals** - Create bi-directional portals that teleport players seamlessly.
 - 🔹 **Enable/Disable** warps, homes, and portals on the fly.
 - 🔹 **Permission-controlled access** to specific warps.
-- 🔹 ⚡ **Built for performance and scale** -  handles hundreds of warp points with ease.
+- 🔹 **Built for performance and scale** -  handles hundreds of warp points with ease.
 
 ---
 
